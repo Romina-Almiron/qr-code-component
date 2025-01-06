@@ -12,7 +12,6 @@ Esta es una solución al [desafío del componente QR code en Frontend Mentor](ht
   - [Herramientas utilizadas](#herramientas-utilizadas)
   - [Lo que aprendí](#lo-que-aprendí)
   - [Desarrollo continuo](#desarrollo-continuo)
-  - [Recursos útiles](#recursos-útiles)
 - [Autor](#autor)
 - [Agradecimientos](#agradecimientos)
 
