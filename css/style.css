@@ -22,7 +22,7 @@ body{
     background-color: var(--color-contenedor-300);
     font-family: 'outfit', sans-serif;
     line-height: 1.5;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 .card{
     width: 100%;
@@ -31,7 +31,7 @@ body{
     padding: 15px;
     background-color: var(--color-tarjeta);
     border-radius: 25px;
-    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
 img{
