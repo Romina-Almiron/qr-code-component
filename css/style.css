@@ -14,7 +14,7 @@
 }
 body{
     margin: 0;
-    padding: 15px;
+    padding: 0;
     min-height: 100vh;
     display: flex; 
     justify-content: center; 
@@ -22,11 +22,12 @@ body{
     background-color: var(--color-contenedor-300);
     font-family: 'outfit', sans-serif;
     line-height: 1.5;
+    overflow-x: hidden;
 }
 .card{
-    width: 90%;
-    max-width: 375px;
-    margin:auto;
+    width: 100%;
+    max-width: 320px;
+    margin:0 auto;
     padding: 15px;
     background-color: var(--color-tarjeta);
     border-radius: 25px;
@@ -35,12 +36,13 @@ body{
 }
 img{
     width: 100%;
+    height: auto;
     border-radius: 15px;
     display: block;
 }
 .card-content{
-    padding:20px;
-    margin-top: 5px;
+    padding:10px 15px;
+    margin-top: 0px;
 }
 .card-content .title{
     font-size: 1.2rem;
